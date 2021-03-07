@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from script import RecommenderEngine
 
 app = FastAPI()
 
