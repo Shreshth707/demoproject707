@@ -5,6 +5,7 @@ from script import RecommenderEngine
 origins = [
     "https://recommender-script.herokuapp.com",
     "https://shreshth707.github.io/"
+    "https://shreshth707.github.io/MovieRecommender"
 ]
 
 app = FastAPI()
